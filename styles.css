@@ -39,7 +39,7 @@ p {
   margin-right: auto;
 }
 
-#tribute-info ul li {
+li {
   padding-top: 15px;
 }
 
@@ -49,5 +49,5 @@ p {
 
 #further {
   text-align: center;
-  padding-bottom: 15px;
+  padding-bottom: 23px;
 }
